@@ -1,5 +1,3 @@
-# chat--bot
-
 # Chatbot using AIML
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
